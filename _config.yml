@@ -10,7 +10,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+#url: https://DHGroup3.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
@@ -21,14 +21,14 @@ source-code: https://github.com/learn-static/digital-exhibit-lab
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Digital Exhibit Lab
+title: Historic London
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Learn-Static Template
+tagline: Mapd and Images 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A Learn-Static template designed to teach digital scholarship concepts and critical literacies via a hands-on experience creating a digital exhibit."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: learn-static
+author: Yeliz Baloglu Cengay, Griffin Heaney, Lia Whalen
 
 ##########
 # COLLECTION SETTINGS
