@@ -12,35 +12,21 @@ credits: true
 
 {% include feature/nav-menu.html sections="About Digital Exhibit Lab;The Project;Documentation" %}
 
-## About Digital Exhibit Lab
+## About this Collection
 
-*Digital Exhibit Lab* is a [Learn-Static](https://github.com/learn-static) template designed to teach digital scholarship concepts and critical literacies via a hands-on experience creating a digital collection.
-Students are invited to do archival research, curation, description, and metadata, resulting in a final published digital exhibit website.
+This collection is a group project for GRADLIS 9372: Digital Humanities and Library and Information Science at Western University. It is a demonstration of Yeliz Baloglu Cengay, Griffin Heaney, and Lia Whalen's expertise with Collection Builder.
 
-Working with their own digital collection allows students to think critically about the processes of creating archives, digital archives, and research, while building web and data literacies.
-The project can be framed in different ways to emphasize various aspects of the process or learn specific digital skills.
-
-This site is a demonstration of the basic exhibit features.
-
-The template is based on [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a framework for creating digital exhibits driven by a metadata spreadsheet.
-
-Powered by a static web approach, CollectionBuilder minimizes the technical overhead, maintenance, and complexity--if hosted on GitHub (or similar code hosting service), creating a project does not require a server or installing software.
-This enables individual instructors, librarians, DH labs, or even the students themselves to set up the digital exhibit.
-It offers a viable alternative to heavier collection platforms such as Omeka or CONTENTdm, opening up more opportunities to bring digital collections into the classroom.
-
-For a demonstration of the learning sequence used in an undergraduate course see ["Mining the Archives", History 454](https://thecdil.github.io/hist-454-2022/)  and [assignment outline](https://github.com/learn-static/digital-exhibit-lab/blob/main/docs/mining-the-archive-project.md).
 
 ## The Project
 
-*Digital Exhibit Lab* projects can include different methods of curating objects to include in the collection, starting from a pre-created collection, curating from existing digital collections, digitizing new objects, or a combination.
-Project steps can include:
-
-- **Archival Research:** Working with special collections and/or archives departments, students explore and do hands-on research with primary source materials related to the course subjects.
-- **Digitization:** From their archival research, students select primary sources to digitize. Working with the digitization lab or DH center, they scan their selected items and prepare digital files.
-- **Curation:** Students explore their institution's digital collections or specific external collections to do online archival research. They select items from existing digital collections, creating metadata for their curated records.
-- **Description and Metadata:** Students create metadata following a collection template to describe their digitized and curated items.
-- **Exhibit:** Once all objects and metadata are submitted, the template generates the final digital collection. 
-- **Research and Reflection:** Students write papers and/or reflections informed by their archival research. Traditional term papers could use images from and citations to the course collection. Alternatively, students can write multi-modal essays directly in the exhibit website using markdown.
+Learn about, apply, and build a digital humanities project using one of several tools.
+The goal is to work together to investigate a new tool and build a project using mock data. A
+short presentation will be required (5 minutes).
+Learning Objectives:
+• Collaboratively explore and gain proficiency with a digital humanities tool or application.
+• Develop the ability to teach and communicate complex concepts effectively.
+• Analyze the theoretical and practical relevance of the chosen tool within the field of digital
+humanities.
 
 ## Documentation
 
