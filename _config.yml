@@ -23,10 +23,11 @@ source-code: https://github.com/learn-static/digital-exhibit-lab
 # title of site appears in banner
 title: Historic London
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Mapd and Images 
+tagline: Maps and Images 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A Learn-Static template designed to teach digital scholarship concepts and critical literacies via a hands-on experience creating a digital exhibit."
+description: "A collection to explore the history of London, Ontario in images and historic maps. This collection is built as a digital humanities assignment for LIS 9372 650: Special Topic: Digital Humanities and Library and
+Information Science course at Western University."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Yeliz Baloglu Cengay, Griffin Heaney, Lia Whalen
 
