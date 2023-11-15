@@ -44,10 +44,10 @@ metadata-csv: /assets/metadata_demo.csv
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Learn-Static"
-organization-link: https://github.com/learn-static
-organization-logo-banner: /assets/img/learn-static.svg
-organization-logo-nav: /assets/img/learn-static-white.svg
+organization-name: "LIS 9372 650: Digital Humanities and Library and Information Science"
+#organization-link: https://github.com/learn-static
+#organization-logo-banner: /assets/img/learn-static.svg
+#organization-logo-nav: /assets/img/learn-static-white.svg
 
 
 ##########
