@@ -21,13 +21,13 @@ source-code: https://github.com/learn-static/digital-exhibit-lab
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Historic London
+title: Historic London, ON
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Maps and Images 
+tagline: A Collection of Maps and Images 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection to explore the history of London, Ontario in images and historic maps. This collection is built as a digital humanities assignment for LIS 9372 650: Special Topic: Digital Humanities and Library and
-Information Science course at Western University."
+Information Science course at Western University.The current collection includes maps, picture albums, and sketches from 1800 to 1930s."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Yeliz Baloglu Cengay, Griffin Heaney, Lia Whalen
 
