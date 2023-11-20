@@ -29,7 +29,7 @@ Learning Objectives:
 • Analyze the theoretical and practical relevance of the chosen tool within the field of digital
 humanities.
 
-## Documentation
+## How to build your own digital exhibition with Collection Builder
 
 To learn more about how to create your own *Digital Exhibit Lab* project, please check out documentation:
 
@@ -38,5 +38,3 @@ To learn more about how to create your own *Digital Exhibit Lab* project, please
 - Detailed information about CollectionBuilder (the framework *Digital Exhibit Lab* is based on) can be found in [CB-Docs](https://collectionbuilder.github.io/cb-docs/).
 
 ---------
-
-Image credit: [Mountain Consolidated Mine 300 ft. level East still floor [no. 1223], Carleton Watkins](https://www.lib.uidaho.edu/digital/watkins/items/watkins56.html)
