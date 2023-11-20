@@ -39,7 +39,7 @@ author: Yeliz Baloglu Cengay, Griffin Heaney, Lia Whalen
 # e.g. relative path "/assets/demo_metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vQAmItLe8lSE2Pk8-HGFsK7xA_L31j1ZuwDYc4nkAqmxNaIx03-ve-nAPWoC5GsrIpy2xhwnDzxjteD/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/learn-static/digital-exhibit-lab/main/assets/metadata_demo.csv"
-metadata-csv: /assets/metadata_demo.csv
+metadata-csv: /assets/metadata-demo.csv
 
 ##########
 # Site/Organization Branding 
