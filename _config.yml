@@ -27,7 +27,7 @@ tagline: A Collection of Maps and Images
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection to explore the history of London, Ontario in images and historic maps. This collection is built as a digital humanities assignment for LIS 9372 650: Special Topic: Digital Humanities and Library and
-Information Science course at Western University.The current collection includes maps, picture albums, and sketches from 1800 to 1930s."
+Information Science course at Western University.The current collection includes maps, picture albums, and sketches from 1800 to 1920s."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Yeliz Baloglu Cengay, Griffin Heaney, Lia Whalen
 
@@ -45,7 +45,7 @@ metadata-csv: /assets/metadata-demo.csv
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "LIS 9372 650: Digital Humanities and Library and Information Science"
+##organization-name: "LIS 9372 650: Digital Humanities and Library and Information Science"
 #organization-link: https://github.com/learn-static
 #organization-logo-banner: /assets/img/learn-static.svg
 #organization-logo-nav: /assets/img/learn-static-white.svg
