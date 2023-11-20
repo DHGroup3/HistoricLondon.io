@@ -13,6 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About Digital Exhibit Lab;The Project;Documentation" %}
 
 ## About this Collection
+{% include image/jumbotron.html objectid="/objects/1824Map.jpg" %}
 
 This collection is a group project for GRADLIS 9372: Digital Humanities and Library and Information Science at Western University. It is a demonstration of Yeliz Baloglu Cengay, Griffin Heaney, and Lia Whalen's expertise with Collection Builder.
 
